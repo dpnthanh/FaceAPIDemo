@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FaceAPIDemo</string>
+    <string name="face_api_key">be5641880a4d4eb4ac34d2888873d3bf</string>
+    <string name="button_run">Run</string>
 </resources>
